@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e55dd40aad2335633c2adbb928ad5b9b",
+    "revision": "f2a104dc62cd22298edf663ee168c19d",
     "url": "/Crio-Launch-Feb-2020-tanvi-a17-iiits/index.html"
   },
   {
-    "revision": "30a85ab22f8358b9a917",
+    "revision": "ba09840019fe4ea0e575",
     "url": "/Crio-Launch-Feb-2020-tanvi-a17-iiits/static/css/2.57ddf7ad.chunk.css"
   },
   {
-    "revision": "1627f0542d52ca826c2a",
+    "revision": "ef4e0bfb121550c24b30",
     "url": "/Crio-Launch-Feb-2020-tanvi-a17-iiits/static/css/main.5db1380d.chunk.css"
   },
   {
-    "revision": "30a85ab22f8358b9a917",
-    "url": "/Crio-Launch-Feb-2020-tanvi-a17-iiits/static/js/2.c7d2dbc0.chunk.js"
+    "revision": "ba09840019fe4ea0e575",
+    "url": "/Crio-Launch-Feb-2020-tanvi-a17-iiits/static/js/2.77a98117.chunk.js"
   },
   {
     "revision": "d466ab9648f013dea081956fc7c904f3",
-    "url": "/Crio-Launch-Feb-2020-tanvi-a17-iiits/static/js/2.c7d2dbc0.chunk.js.LICENSE.txt"
+    "url": "/Crio-Launch-Feb-2020-tanvi-a17-iiits/static/js/2.77a98117.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1627f0542d52ca826c2a",
-    "url": "/Crio-Launch-Feb-2020-tanvi-a17-iiits/static/js/main.eac6329f.chunk.js"
+    "revision": "ef4e0bfb121550c24b30",
+    "url": "/Crio-Launch-Feb-2020-tanvi-a17-iiits/static/js/main.6f77b831.chunk.js"
   },
   {
     "revision": "06dca30d5388a80f11ae",

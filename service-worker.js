@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Crio-Launch-Feb-2020-tanvi-a17-iiits/precache-manifest.04e702d836712c4cf494939eff975e97.js"
+  "/Crio-Launch-Feb-2020-tanvi-a17-iiits/precache-manifest.ec9add4d38cd82857757e2de65547b40.js"
 );
 
 self.addEventListener('message', (event) => {
